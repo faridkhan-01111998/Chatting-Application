@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703225105703",
+    "project_id": "hangout-back-end",
+    "storage_bucket": "hangout-back-end.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703225105703:android:1212f1714e5d4851c3ad02",
+        "android_client_info": {
+          "package_name": "com.example.hangout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqKYrx3z___WvDTOP1IA9LROmUge-BSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
